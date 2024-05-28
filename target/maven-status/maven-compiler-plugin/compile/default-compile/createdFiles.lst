@@ -1,0 +1,6 @@
+controller/ProductController.class
+service/ProductService.class
+repository/ProductRepository.class
+entity/Product.class
+main/Application.class
+config/JpaConfig.class
